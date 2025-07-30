@@ -1,0 +1,185 @@
+[
+  {
+    "id": "r1",
+    "startupId": "s1",
+    "title": "TechnoGrow Serie A Yatırım Turu",
+    "description": "Tarım teknolojilerinde yapay zeka çözümlerimizi ölçeklendirmek için Serie A yatırım turumuz",
+    "status": "live",
+    "targetAmount": 5000000,
+    "minInvestment": 10000,
+    "maxInvestment": 500000,
+    "currentAmount": 2750000,
+    "investorCount": 35,
+    "valuationPre": 15000000,
+    "valuationPost": 20000000,
+    "startDate": "2024-01-15T09:00:00Z",
+    "endDate": "2024-03-15T23:59:59Z",
+    "platformFeePercentage": 5,
+    "documents": [
+      {
+        "id": "rd1",
+        "name": "Yatırım Memorandumu",
+        "fileName": "investment_memo.pdf",
+        "fileUrl": "/mock-files/rounds/investment_memo.pdf",
+        "type": "memo"
+      },
+      {
+        "id": "rd2",
+        "name": "Terim Sayfası",
+        "fileName": "term_sheet.pdf",
+        "fileUrl": "/mock-files/rounds/term_sheet.pdf",
+        "type": "terms"
+      },
+      {
+        "id": "rd3",
+        "name": "Due Diligence Raporu",
+        "fileName": "due_diligence.pdf",
+        "fileUrl": "/mock-files/rounds/due_diligence.pdf",
+        "type": "due_diligence"
+      }
+    ],
+    "highlights": [
+      "15 aylık sürekli büyüme",
+      "450+ aktif müşteri",
+      "AI patenti başvurusu yapıldı",
+      "B2B SaaS modeli kanıtlandı"
+    ],
+    "riskFactors": [
+      "Rekabetçi pazar yapısı",
+      "Regulasyon değişiklikleri",
+      "Teknoloji bağımlılığı"
+    ],
+    "useOfFunds": {
+      "productDevelopment": 40,
+      "marketing": 30,
+      "teamExpansion": 20,
+      "operations": 10
+    },
+    "milestones": [
+      {
+        "title": "MVP Lansmanı",
+        "description": "İlk ürün versiyonu piyasaya sürüldü",
+        "date": "2023-08-15",
+        "status": "completed"
+      },
+      {
+        "title": "İlk 100 Müşteri",
+        "description": "İlk 100 ödeme yapan müşteri hedefine ulaşıldı",
+        "date": "2023-11-30",
+        "status": "completed"
+      },
+      {
+        "title": "AI Algoritma v2.0",
+        "description": "Gelişmiş yapay zeka algoritması devreye alındı",
+        "date": "2024-02-28",
+        "status": "in_progress"
+      },
+      {
+        "title": "Uluslararası Genişleme",
+        "description": "Balkan ülkelerine açılım planı",
+        "date": "2024-06-30",
+        "status": "planned"
+      }
+    ],
+    "createdAt": "2024-01-10T14:30:00Z",
+    "updatedAt": "2024-01-25T16:45:00Z"
+  },
+  {
+    "id": "r2",
+    "startupId": "s1",
+    "title": "TechnoGrow Seed Yatırım Turu",
+    "description": "İlk ürün geliştirme ve pazar testleri için seed yatırım turumuz",
+    "status": "closed",
+    "targetAmount": 1000000,
+    "minInvestment": 5000,
+    "maxInvestment": 100000,
+    "currentAmount": 1000000,
+    "investorCount": 18,
+    "valuationPre": 4000000,
+    "valuationPost": 5000000,
+    "startDate": "2023-06-01T09:00:00Z",
+    "endDate": "2023-08-01T23:59:59Z",
+    "closedAt": "2023-07-28T15:30:00Z",
+    "platformFeePercentage": 5,
+    "documents": [
+      {
+        "id": "rd4",
+        "name": "Seed Yatırım Memorandumu",
+        "fileName": "seed_memo.pdf",
+        "fileUrl": "/mock-files/rounds/seed_memo.pdf",
+        "type": "memo"
+      }
+    ],
+    "highlights": [
+      "Güçlü kurucu ekip",
+      "Kanıtlanmış pazar talebi",
+      "MVP geliştirme tamamlandı",
+      "İlk pilot müşteriler alındı"
+    ],
+    "riskFactors": [
+      "Erken aşama startup riski",
+      "Pazar doğrulaması süreci",
+      "Takım genişletme zorluğu"
+    ],
+    "useOfFunds": {
+      "productDevelopment": 50,
+      "teamHiring": 30,
+      "marketing": 15,
+      "operations": 5
+    },
+    "createdAt": "2023-05-15T10:00:00Z",
+    "updatedAt": "2023-07-28T15:30:00Z"
+  },
+  {
+    "id": "r3",
+    "startupId": "s2",
+    "title": "FinanceAI Seed Yatırım Turu",
+    "description": "Kişisel finans AI'ı için ilk yatırım turumuz",
+    "status": "committee_review",
+    "targetAmount": 2000000,
+    "minInvestment": 15000,
+    "maxInvestment": 300000,
+    "currentAmount": 0,
+    "investorCount": 0,
+    "valuationPre": 8000000,
+    "valuationPost": 10000000,
+    "startDate": null,
+    "endDate": null,
+    "platformFeePercentage": 5,
+    "documents": [
+      {
+        "id": "rd5",
+        "name": "FinanceAI Pitch Deck",
+        "fileName": "financeai_pitch.pdf",
+        "fileUrl": "/mock-files/rounds/financeai_pitch.pdf",
+        "type": "pitch"
+      },
+      {
+        "id": "rd6",
+        "name": "Finansal Projeksiyonlar",
+        "fileName": "financial_projections.pdf",
+        "fileUrl": "/mock-files/rounds/financial_projections.pdf",
+        "type": "financial"
+      }
+    ],
+    "highlights": [
+      "1200+ beta kullanıcısı",
+      "Aylık %22 büyüme",
+      "BDDK ön onayı alındı",
+      "Deneyimli fintech ekibi"
+    ],
+    "riskFactors": [
+      "Regulasyon belirsizlikleri",
+      "Güçlü bankacılık rekabeti",
+      "Veri güvenliği zorlukları"
+    ],
+    "useOfFunds": {
+      "productDevelopment": 35,
+      "compliance": 25,
+      "marketing": 25,
+      "teamExpansion": 15
+    },
+    "createdAt": "2024-01-22T09:30:00Z",
+    "updatedAt": "2024-01-25T14:20:00Z"
+  }
+] 

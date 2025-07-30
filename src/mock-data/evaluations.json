@@ -1,0 +1,199 @@
+[
+  {
+    "id": "e1",
+    "roundId": "r1",
+    "committeeId": "u4",
+    "scores": {
+      "teamExperience": 8.5,
+      "marketSize": 7.8,
+      "productInnovation": 9.2,
+      "businessModel": 8.0,
+      "financialProjections": 7.5,
+      "competitiveAdvantage": 8.8,
+      "marketTraction": 8.2,
+      "scalability": 9.0,
+      "riskAssessment": 6.5,
+      "exitStrategy": 7.0,
+      "legalStructure": 8.5,
+      "intellectualProperty": 8.8,
+      "customerValidation": 8.3,
+      "revenueModel": 8.1,
+      "fundingHistory": 7.8,
+      "governanceStructure": 8.0,
+      "sustainabilityImpact": 7.5
+    },
+    "totalScore": 137.5,
+    "averageScore": 8.09,
+    "decision": "approve",
+    "comments": "TechnoGrow çok güçlü bir ekip ve teknoloji altyapısına sahip. Tarım sektöründeki deneyimleri ve AI teknolojisini birleştirme yaklaşımları oldukça etkileyici. Pazar büyüklüğü ve ölçeklenebilirlik potansiyeli yüksek. Risk faktörleri makul seviyede. Yatırıma uygun.",
+    "detailedComments": {
+      "strengths": [
+        "Güçlü teknik ekip ve sektör deneyimi",
+        "Kanıtlanmış pazar talebi ve müşteri portföyü",
+        "İnovatif AI teknolojisi ve patent potansiyeli",
+        "Sürdürülebilir gelir modeli"
+      ],
+      "concerns": [
+        "Rekabetçi pazarda diferansiyasyon zorluğu",
+        "Teknoloji geliştirme maliyetleri",
+        "Regulasyon değişikliklerine bağımlılık"
+      ],
+      "recommendations": [
+        "Patent başvurusu sürecini hızlandırın",
+        "Uluslararası genişleme planını detaylandırın",
+        "Risk yönetimi stratejilerini güçlendirin"
+      ]
+    },
+    "isCompleted": true,
+    "submittedAt": "2024-01-12T16:45:00Z",
+    "createdAt": "2024-01-11T10:00:00Z",
+    "updatedAt": "2024-01-12T16:45:00Z"
+  },
+  {
+    "id": "e2",
+    "roundId": "r3",
+    "committeeId": "u4",
+    "scores": {
+      "teamExperience": 7.8,
+      "marketSize": 8.5,
+      "productInnovation": 8.2,
+      "businessModel": 7.5,
+      "financialProjections": 7.0,
+      "competitiveAdvantage": 7.3,
+      "marketTraction": 8.0,
+      "scalability": 8.8,
+      "riskAssessment": 6.0,
+      "exitStrategy": 6.8,
+      "legalStructure": 7.5,
+      "intellectualProperty": 6.5,
+      "customerValidation": 8.2,
+      "revenueModel": 7.8,
+      "fundingHistory": 6.0,
+      "governanceStructure": 7.2,
+      "sustainabilityImpact": 6.5
+    },
+    "totalScore": 125.6,
+    "averageScore": 7.39,
+    "decision": "revise",
+    "comments": "FinanceAI'nin potansiyeli var ancak bazı önemli konularda gelişim göstermesi gerekiyor. Özellikle finansal projeksiyonlar ve risk yönetimi konularında daha detaylı çalışma yapılmalı. Fintech sektöründeki regulasyon riskleri için daha kapsamlı bir strateji geliştirilmeli.",
+    "detailedComments": {
+      "strengths": [
+        "Büyük pazar potansiyeli",
+        "İyi kullanıcı sayısı ve büyüme oranı",
+        "Deneyimli kurucu ekip"
+      ],
+      "concerns": [
+        "Regulasyon belirsizlikleri",
+        "Finansal projeksiyonlarda eksiklikler",
+        "Rekabet analizi yetersiz",
+        "Fikri mülkiyet koruması zayıf"
+      ],
+      "recommendations": [
+        "BDDK ile daha yakın çalışma yapın",
+        "Finansal modeli güçlendirin",
+        "Patent ve trademark başvurularını tamamlayın",
+        "Rekabet analizi ve pozisyonlama stratejisini geliştirin"
+      ]
+    },
+    "isCompleted": true,
+    "submittedAt": "2024-01-24T14:20:00Z",
+    "createdAt": "2024-01-23T09:00:00Z",
+    "updatedAt": "2024-01-24T14:20:00Z"
+  },
+  {
+    "id": "e3",
+    "roundId": "r3",
+    "committeeId": "u4",
+    "scores": {
+      "teamExperience": 8.0,
+      "marketSize": 8.8,
+      "productInnovation": 7.5,
+      "businessModel": 8.2,
+      "financialProjections": 6.8,
+      "competitiveAdvantage": 7.0,
+      "marketTraction": 8.5,
+      "scalability": 8.0,
+      "riskAssessment": 5.8,
+      "exitStrategy": 7.2,
+      "legalStructure": 7.8,
+      "intellectualProperty": 6.2,
+      "customerValidation": 8.8,
+      "revenueModel": 8.0,
+      "fundingHistory": 6.5,
+      "governanceStructure": 7.5,
+      "sustainabilityImpact": 7.0
+    },
+    "totalScore": 127.6,
+    "averageScore": 7.51,
+    "decision": "revise",
+    "comments": "İkinci değerlendirme sonucunda bazı iyileştirmeler görülmekle birlikte, hala önemli konularda revizyon gerekiyor. Özellikle risk yönetimi ve fikri mülkiyet konuları ele alınmalı.",
+    "detailedComments": {
+      "strengths": [
+        "Müşteri doğrulaması güçlü",
+        "Pazar büyüklüğü etkileyici",
+        "Kullanıcı deneyimi iyileşti"
+      ],
+      "concerns": [
+        "Risk değerlendirmesi hala yetersiz",
+        "IP stratejisi netleşmedi",
+        "Finansal planlama detaylandırılmalı"
+      ],
+      "recommendations": [
+        "Risk yönetimi planını revize edin",
+        "IP koruması için acil adımlar atın",
+        "Çıkış stratejisini netleştirin"
+      ]
+    },
+    "isCompleted": true,
+    "submittedAt": "2024-01-25T11:30:00Z",
+    "createdAt": "2024-01-25T09:15:00Z",
+    "updatedAt": "2024-01-25T11:30:00Z"
+  },
+  {
+    "id": "e4",
+    "roundId": "r2",
+    "committeeId": "u4",
+    "scores": {
+      "teamExperience": 8.2,
+      "marketSize": 7.5,
+      "productInnovation": 8.8,
+      "businessModel": 7.8,
+      "financialProjections": 7.2,
+      "competitiveAdvantage": 8.5,
+      "marketTraction": 7.0,
+      "scalability": 8.8,
+      "riskAssessment": 7.5,
+      "exitStrategy": 7.8,
+      "legalStructure": 8.0,
+      "intellectualProperty": 8.2,
+      "customerValidation": 7.5,
+      "revenueModel": 8.0,
+      "fundingHistory": 6.5,
+      "governanceStructure": 7.8,
+      "sustainabilityImpact": 7.2
+    },
+    "totalScore": 131.3,
+    "averageScore": 7.72,
+    "decision": "approve",
+    "comments": "TechnoGrow'un seed turu için yapılan değerlendirme. Erken aşama için çok umut verici. Takım güçlü, teknoloji innovatif ve pazar potansiyeli yüksek. Seed aşaması için uygun.",
+    "detailedComments": {
+      "strengths": [
+        "İnovatif teknoloji yaklaşımı",
+        "Güçlü kurucu ekip",
+        "Net pazar fırsatı"
+      ],
+      "concerns": [
+        "Erken aşama riskleri",
+        "İlk müşteri kazanım zorlukları"
+      ],
+      "recommendations": [
+        "Pilot müşteri sayısını artırın",
+        "Product-market fit'i doğrulayın"
+      ]
+    },
+    "isCompleted": true,
+    "submittedAt": "2023-05-25T15:00:00Z",
+    "createdAt": "2023-05-20T10:00:00Z",
+    "updatedAt": "2023-05-25T15:00:00Z"
+  }
+] 

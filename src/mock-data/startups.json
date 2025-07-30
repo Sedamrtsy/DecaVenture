@@ -1,0 +1,173 @@
+[
+  {
+    "id": "s1",
+    "userId": "u1",
+    "name": "TechnoGrow",
+    "description": "Yapay zeka destekli tarım teknolojileri geliştiren yenilikçi startup",
+    "logo": "https://api.dicebear.com/7.x/shapes/svg?seed=technogrow",
+    "sector": "Tarım Teknolojisi",
+    "foundingDate": "2023-06-01",
+    "website": "https://technogrow.com",
+    "location": "İstanbul, Türkiye",
+    "employeeCount": 12,
+    "status": "active",
+    "businessPlan": [
+      {
+        "id": "bp1",
+        "version": 1,
+        "title": "TechnoGrow İş Planı v1.0",
+        "fileName": "technogrow_business_plan_v1.pdf",
+        "fileUrl": "/mock-files/business-plans/technogrow_v1.pdf",
+        "uploadedAt": "2023-12-01T10:00:00Z",
+        "isActive": false,
+        "status": "revised"
+      },
+      {
+        "id": "bp2",
+        "version": 2,
+        "title": "TechnoGrow İş Planı v2.0",
+        "fileName": "technogrow_business_plan_v2.pdf",
+        "fileUrl": "/mock-files/business-plans/technogrow_v2.pdf",
+        "uploadedAt": "2024-01-10T14:30:00Z",
+        "isActive": true,
+        "status": "approved"
+      }
+    ],
+    "documents": [
+      {
+        "id": "doc1",
+        "name": "Şirket Ana Sözleşmesi",
+        "fileName": "ana_sozlesme.pdf",
+        "fileUrl": "/mock-files/documents/ana_sozlesme.pdf",
+        "type": "legal",
+        "status": "approved",
+        "uploadedAt": "2023-11-20T09:15:00Z"
+      },
+      {
+        "id": "doc2",
+        "name": "Ticaret Sicil Gazetesi",
+        "fileName": "ticaret_sicil.pdf",
+        "fileUrl": "/mock-files/documents/ticaret_sicil.pdf",
+        "type": "legal",
+        "status": "approved",
+        "uploadedAt": "2023-11-22T11:30:00Z"
+      },
+      {
+        "id": "doc3",
+        "name": "Mali Tablolar 2023",
+        "fileName": "mali_tablolar_2023.pdf",
+        "fileUrl": "/mock-files/documents/mali_tablolar.pdf",
+        "type": "financial",
+        "status": "approved",
+        "uploadedAt": "2024-01-05T16:45:00Z"
+      },
+      {
+        "id": "doc4",
+        "name": "Faaliyet Raporu",
+        "fileName": "faaliyet_raporu.pdf",
+        "fileUrl": "/mock-files/documents/faaliyet_raporu.pdf",
+        "type": "operational",
+        "status": "pending",
+        "uploadedAt": "2024-01-20T13:20:00Z"
+      }
+    ],
+    "team": [
+      {
+        "name": "Ahmet Yılmaz",
+        "position": "CEO & Kurucu",
+        "experience": "15 yıl tarım ve teknoloji deneyimi",
+        "linkedin": "https://linkedin.com/in/ahmetyilmaz"
+      },
+      {
+        "name": "Dr. Elif Kara",
+        "position": "CTO",
+        "experience": "PhD Bilgisayar Mühendisliği, 10 yıl AI deneyimi",
+        "linkedin": "https://linkedin.com/in/elifkara"
+      }
+    ],
+    "metrics": {
+      "monthlyGrowth": 15.5,
+      "customerCount": 450,
+      "revenue": 125000,
+      "burnRate": 35000
+    },
+    "socialMedia": {
+      "linkedin": "https://linkedin.com/company/technogrow",
+      "twitter": "https://twitter.com/technogrow",
+      "instagram": "https://instagram.com/technogrow"
+    },
+    "createdAt": "2023-12-01T10:00:00Z",
+    "updatedAt": "2024-01-20T14:30:00Z"
+  },
+  {
+    "id": "s2",
+    "userId": "u5",
+    "name": "FinanceAI",
+    "description": "Kişisel finansal danışmanlık için yapay zeka çözümleri",
+    "logo": "https://api.dicebear.com/7.x/shapes/svg?seed=financeai",
+    "sector": "Fintech",
+    "foundingDate": "2023-09-15",
+    "website": "https://financeai.co",
+    "location": "Ankara, Türkiye",
+    "employeeCount": 8,
+    "status": "active",
+    "businessPlan": [
+      {
+        "id": "bp3",
+        "version": 1,
+        "title": "FinanceAI İş Planı v1.0",
+        "fileName": "financeai_business_plan_v1.pdf",
+        "fileUrl": "/mock-files/business-plans/financeai_v1.pdf",
+        "uploadedAt": "2024-01-05T12:00:00Z",
+        "isActive": true,
+        "status": "committee_review"
+      }
+    ],
+    "documents": [
+      {
+        "id": "doc5",
+        "name": "Şirket Ana Sözleşmesi",
+        "fileName": "financeai_ana_sozlesme.pdf",
+        "fileUrl": "/mock-files/documents/financeai_ana_sozlesme.pdf",
+        "type": "legal",
+        "status": "approved",
+        "uploadedAt": "2024-01-06T10:00:00Z"
+      },
+      {
+        "id": "doc6",
+        "name": "KVKK Uyum Belgesi",
+        "fileName": "kvkk_uyum.pdf",
+        "fileUrl": "/mock-files/documents/kvkk_uyum.pdf",
+        "type": "compliance",
+        "status": "pending",
+        "uploadedAt": "2024-01-18T14:00:00Z"
+      }
+    ],
+    "team": [
+      {
+        "name": "Can Arslan",
+        "position": "CEO & Kurucu",
+        "experience": "12 yıl finans ve teknoloji deneyimi",
+        "linkedin": "https://linkedin.com/in/canarslan"
+      },
+      {
+        "name": "Selin Özer",
+        "position": "Head of Product",
+        "experience": "8 yıl product management deneyimi",
+        "linkedin": "https://linkedin.com/in/selinozer"
+      }
+    ],
+    "metrics": {
+      "monthlyGrowth": 22.3,
+      "customerCount": 1200,
+      "revenue": 85000,
+      "burnRate": 45000
+    },
+    "socialMedia": {
+      "linkedin": "https://linkedin.com/company/financeai",
+      "twitter": "https://twitter.com/financeai"
+    },
+    "createdAt": "2024-01-05T12:00:00Z",
+    "updatedAt": "2024-01-22T09:30:00Z"
+  }
+] 
